@@ -1,0 +1,15 @@
+C:\Проекти\Sharaga 3.1\КПЗ\Лаб3\ViewModels\bin\Debug\net6.0\ViewModels.deps.json
+C:\Проекти\Sharaga 3.1\КПЗ\Лаб3\ViewModels\bin\Debug\net6.0\ViewModels.dll
+C:\Проекти\Sharaga 3.1\КПЗ\Лаб3\ViewModels\bin\Debug\net6.0\ViewModels.pdb
+C:\Проекти\Sharaga 3.1\КПЗ\Лаб3\ViewModels\obj\Debug\net6.0\ViewModels.csproj.AssemblyReference.cache
+C:\Проекти\Sharaga 3.1\КПЗ\Лаб3\ViewModels\obj\Debug\net6.0\ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Проекти\Sharaga 3.1\КПЗ\Лаб3\ViewModels\obj\Debug\net6.0\ViewModels.AssemblyInfoInputs.cache
+C:\Проекти\Sharaga 3.1\КПЗ\Лаб3\ViewModels\obj\Debug\net6.0\ViewModels.AssemblyInfo.cs
+C:\Проекти\Sharaga 3.1\КПЗ\Лаб3\ViewModels\obj\Debug\net6.0\ViewModels.csproj.CoreCompileInputs.cache
+C:\Проекти\Sharaga 3.1\КПЗ\Лаб3\ViewModels\obj\Debug\net6.0\ViewModels.dll
+C:\Проекти\Sharaga 3.1\КПЗ\Лаб3\ViewModels\obj\Debug\net6.0\refint\ViewModels.dll
+C:\Проекти\Sharaga 3.1\КПЗ\Лаб3\ViewModels\obj\Debug\net6.0\ViewModels.pdb
+C:\Проекти\Sharaga 3.1\КПЗ\Лаб3\ViewModels\obj\Debug\net6.0\ref\ViewModels.dll
+C:\Проекти\Sharaga 3.1\КПЗ\Лаб3\ViewModels\bin\Debug\net6.0\Domain.dll
+C:\Проекти\Sharaga 3.1\КПЗ\Лаб3\ViewModels\bin\Debug\net6.0\Domain.pdb
+C:\Проекти\Sharaga 3.1\КПЗ\Лаб3\ViewModels\obj\Debug\net6.0\ViewModels.csproj.CopyComplete

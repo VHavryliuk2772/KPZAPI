@@ -1,0 +1,284 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Проекти\\Sharaga 3.1\\КПЗ\\Лаб3\\Services\\Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Проекти\\Sharaga 3.1\\КПЗ\\Лаб3\\DesignProjectsManagementStudio.Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Проекти\\Sharaga 3.1\\КПЗ\\Лаб3\\DesignProjectsManagementStudio.Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Проекти\\Sharaga 3.1\\КПЗ\\Лаб3\\DesignProjectsManagementStudio.Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Користувач\\.nuget\\packages\\",
+        "outputPath": "C:\\Проекти\\Sharaga 3.1\\КПЗ\\Лаб3\\DesignProjectsManagementStudio.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Користувач\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Проекти\\Sharaga 3.1\\КПЗ\\Лаб3\\Persistance\\Persistance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Проекти\\Sharaga 3.1\\КПЗ\\Лаб3\\Persistance\\Persistance.csproj",
+        "projectName": "Persistance",
+        "projectPath": "C:\\Проекти\\Sharaga 3.1\\КПЗ\\Лаб3\\Persistance\\Persistance.csproj",
+        "packagesPath": "C:\\Users\\Користувач\\.nuget\\packages\\",
+        "outputPath": "C:\\Проекти\\Sharaga 3.1\\КПЗ\\Лаб3\\Persistance\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Користувач\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Проекти\\Sharaga 3.1\\КПЗ\\Лаб3\\DesignProjectsManagementStudio.Domain\\Domain.csproj": {
+                "projectPath": "C:\\Проекти\\Sharaga 3.1\\КПЗ\\Лаб3\\DesignProjectsManagementStudio.Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Проекти\\Sharaga 3.1\\КПЗ\\Лаб3\\Services\\Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Проекти\\Sharaga 3.1\\КПЗ\\Лаб3\\Services\\Services.csproj",
+        "projectName": "Services",
+        "projectPath": "C:\\Проекти\\Sharaga 3.1\\КПЗ\\Лаб3\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\Користувач\\.nuget\\packages\\",
+        "outputPath": "C:\\Проекти\\Sharaga 3.1\\КПЗ\\Лаб3\\Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Користувач\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Проекти\\Sharaga 3.1\\КПЗ\\Лаб3\\DesignProjectsManagementStudio.Domain\\Domain.csproj": {
+                "projectPath": "C:\\Проекти\\Sharaga 3.1\\КПЗ\\Лаб3\\DesignProjectsManagementStudio.Domain\\Domain.csproj"
+              },
+              "C:\\Проекти\\Sharaga 3.1\\КПЗ\\Лаб3\\Persistance\\Persistance.csproj": {
+                "projectPath": "C:\\Проекти\\Sharaga 3.1\\КПЗ\\Лаб3\\Persistance\\Persistance.csproj"
+              },
+              "C:\\Проекти\\Sharaga 3.1\\КПЗ\\Лаб3\\ViewModels\\ViewModels.csproj": {
+                "projectPath": "C:\\Проекти\\Sharaga 3.1\\КПЗ\\Лаб3\\ViewModels\\ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Проекти\\Sharaga 3.1\\КПЗ\\Лаб3\\ViewModels\\ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Проекти\\Sharaga 3.1\\КПЗ\\Лаб3\\ViewModels\\ViewModels.csproj",
+        "projectName": "ViewModels",
+        "projectPath": "C:\\Проекти\\Sharaga 3.1\\КПЗ\\Лаб3\\ViewModels\\ViewModels.csproj",
+        "packagesPath": "C:\\Users\\Користувач\\.nuget\\packages\\",
+        "outputPath": "C:\\Проекти\\Sharaga 3.1\\КПЗ\\Лаб3\\ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Користувач\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Проекти\\Sharaga 3.1\\КПЗ\\Лаб3\\DesignProjectsManagementStudio.Domain\\Domain.csproj": {
+                "projectPath": "C:\\Проекти\\Sharaga 3.1\\КПЗ\\Лаб3\\DesignProjectsManagementStudio.Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

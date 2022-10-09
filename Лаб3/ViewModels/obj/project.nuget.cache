@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XLz9v6kTQtSoPFu6a13KaAs3QxzMIsdoKc+T59UjLnmu4wnxh7feplU4HlSlVxLy/ZjBvTG6Uw4Ttk106hs2ng==",
+  "success": true,
+  "projectFilePath": "C:\\Проекти\\Sharaga 3.1\\КПЗ\\Лаб3\\ViewModels\\ViewModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Користувач\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Користувач\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
